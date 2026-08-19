@@ -1,0 +1,20 @@
+{
+  "name": "portfolio-erick-ramos",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Portafolio profesional de Erick Eduardo Ramos - Científico de Datos egresado del IPN UPIITA",
+  "author": "Erick Eduardo Ramos",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.5.40"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^6.0.8",
+    "vite": "^8.2.0"
+  }
+}
