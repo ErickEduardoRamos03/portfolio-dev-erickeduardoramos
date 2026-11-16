@@ -1,4 +1,3 @@
-```
 # Dependencies
 node_modules/
 
@@ -43,4 +42,9 @@ package-lock.json
 
 # Vite specific
 .vite/
-```
+
+# Salida generada por extract-corpus.mjs
+portfolio/scripts/corpus.json
+
+# Instaladores: nunca deben entrar en el repositorio
+*.msi
